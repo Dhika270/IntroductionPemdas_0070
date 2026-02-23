@@ -11,4 +11,11 @@ int main(){
     //langkah3
     cout << "Masukkan lebar: ";
     cin >> l;
-}
+
+    //langkah4
+    luas = p * l;
+
+    //langkah5
+    cout << "Hasilnya : " << luas;
+
+}//selesai
